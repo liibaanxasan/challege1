@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.container{
+	display: inline-flex;
+	border: 1px solid red;
+	flex-wrap: wrap;
+}
+.box{
+	padding: 30px;
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
+.box1{
+ background: grey;
+}
+.box2{
+ background: orange;
+}
+.box3{
+ background: red;
+}
+.box4{
+ background: black;
+}
+.box5{
+background: yellow;
+}
+.box6{
+background: skyblue;
+}
+.box7{
+background: blue;
+}
+.box7{
+background: skyblue;
+}
+.box8{
+background: crimson;
+}
+.box9{
+background: tomato;
+}
+.box10{
+	background: grey;
+}
+.box11{
+	background: orange;
+}
